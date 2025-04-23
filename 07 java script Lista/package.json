@@ -1,0 +1,16 @@
+{
+  "name": "todolist-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "api": "npx json-server api.json --wacth --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "todolist-javascript": "file:"
+  }
+}
